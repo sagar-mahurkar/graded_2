@@ -55,7 +55,7 @@ dvc init
 
 ### Add Google Cloud storage bucket as Remote storage
 ```shell
-dvc remote add -d gcs_remote gs://mlops-lively-nimbus-473407-m9
+dvc remote add -d gcs_remote gs://mlops-hopeful-history-477911-c1
 ```
 
 ### Create folder to store model locally
